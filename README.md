@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elias and I'm a fullstack developer from Seattle</p>
+<p align="left">My name is Elias and I'm a full stack developer from Seattle</p>
 
 ###
 
